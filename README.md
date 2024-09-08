@@ -4,5 +4,5 @@ Ready to dive into Python without the frustration? Most beginner guides skip the
 
 Key Points:
 No more analysis paralysis—you’ll get the best, not 30 options, for setting up Python.
-Years of experience distilled—I’ve wasted thousands of hours so you won’t have to.
+Wasted hundreds of of hours so you won’t have to.
 Focused on Jupyter Notebook, the best tool for running Python code, debugging, and visualizing results.
